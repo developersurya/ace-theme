@@ -1,0 +1,22 @@
+/*==============================*/
+/* CUSTOM ADMIN STYLES*/
+/*===============================*/
+.tablenav.top .cpac-edit{
+    display: none;
+    height: 0;
+    width: 0;
+}
+
+a.button.button-primary.button-large.disable-click {
+	pointer-events: none;
+    background: url('../../images/loader.gif');
+    background-repeat: no-repeat;
+    width: 120px;
+    background-position: 85%;
+    background-color: #0085BA;
+}
+
+.bulk-dates label {
+    width: 30%;
+    margin-right: 2%;
+}

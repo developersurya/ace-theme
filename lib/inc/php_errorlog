@@ -1,0 +1,1 @@
+[22-Jul-2017 09:52:03 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/lib/inc/jetpack.php on line 27

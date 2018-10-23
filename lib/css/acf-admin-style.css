@@ -1,0 +1,31 @@
+#admin-journey-type-heading {
+    background: rgb(110, 113, 116);
+    color: #fff;
+    padding: 5px;
+}
+
+#admin-journey-type-heading .acf-label {
+    margin: 0;
+}
+
+.acf-fields.-left > .acf-field:before {
+    width: 60%;
+}
+
+.acf-fields.-left > .acf-field > .acf-label {
+    width: 60%;
+}
+
+.acf-fields.-left > .acf-field > .acf-input {
+    width: 40%;
+}
+/*detail itinerary tab resize*/
+#detail-itenary .acf-fields.-left > .acf-field > .acf-label {
+    width: 30%;
+}
+#detail-itenary .acf-fields.-left > .acf-field > .acf-input {
+    width: 70%;
+}
+#detail-itenary .acf-fields.-left > .acf-field:before {
+    width: 30%;
+}

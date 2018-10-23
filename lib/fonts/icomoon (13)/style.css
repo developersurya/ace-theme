@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?gdhlrm');
+    src:    url('fonts/icomoon.eot?gdhlrm#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?gdhlrm') format('truetype'),
+        url('fonts/icomoon.woff?gdhlrm') format('woff'),
+        url('fonts/icomoon.svg?gdhlrm#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mountain:before {
+    content: "\e900";
+}
+.icon-activity-level:before {
+    content: "\e901";
+}
+.icon-altitude:before {
+    content: "\e902";
+}
+.icon-calendar:before {
+    content: "\e903";
+}
+.icon-dates:before {
+    content: "\e904";
+}
+.icon-equipment:before {
+    content: "\e905";
+}
+.icon-facebook:before {
+    content: "\e906";
+}
+.icon-faqs:before {
+    content: "\e907";
+}
+.icon-flickr:before {
+    content: "\e908";
+}
+.icon-gallery:before {
+    content: "\e909";
+}
+.icon-googleplus:before {
+    content: "\e90a";
+}
+.icon-included:before {
+    content: "\e90b";
+}
+.icon-instagram:before {
+    content: "\e90c";
+}
+.icon-itinerary:before {
+    content: "\e90d";
+}
+.icon-overview:before {
+    content: "\e910";
+}
+.icon-phone:before {
+    content: "\e911";
+}
+.icon-review:before {
+    content: "\e912";
+}
+.icon-reviews:before {
+    content: "\e913";
+}
+.icon-twitter:before {
+    content: "\e914";
+}
+.icon-youtube:before {
+    content: "\e915";
+}
+.icon-logo:before {
+    content: "\e916";
+}
+.icon-slogan:before {
+    content: "\e917";
+}
+.icon-linkedin:before {
+    content: "\e90e";
+}
+

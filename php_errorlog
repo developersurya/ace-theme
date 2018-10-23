@@ -1,0 +1,67 @@
+[06-May-2017 01:30:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acethe/public_html/wp-content/themes/acethehimalaya/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/acethe/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[02-Jul-2017 09:08:15 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[22-Jul-2017 09:51:37 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[20-Aug-2017 17:16:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[20-Aug-2017 17:16:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[14-Sep-2017 21:37:53 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[15-Sep-2017 06:49:55 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[16-Sep-2017 18:37:53 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[16-Sep-2017 18:37:53 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[18-Sep-2017 06:09:07 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[18-Sep-2017 19:52:46 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[21-Sep-2017 03:39:52 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[21-Sep-2017 07:32:10 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[21-Sep-2017 15:04:43 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[22-Sep-2017 03:05:55 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[23-Sep-2017 05:23:43 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[24-Sep-2017 21:27:49 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[24-Sep-2017 21:27:49 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[26-Sep-2017 16:29:37 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[26-Sep-2017 23:02:58 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[26-Sep-2017 23:28:43 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[27-Sep-2017 22:38:30 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[28-Sep-2017 01:26:52 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[29-Sep-2017 08:56:02 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[29-Sep-2017 23:41:56 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[30-Sep-2017 10:45:15 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[01-Oct-2017 01:40:36 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[02-Oct-2017 17:35:55 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[03-Oct-2017 07:10:01 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[04-Oct-2017 13:45:27 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[05-Oct-2017 21:44:59 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[05-Oct-2017 22:23:54 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[06-Oct-2017 02:07:40 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[06-Oct-2017 20:43:19 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[06-Oct-2017 21:36:29 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[07-Oct-2017 08:10:01 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[08-Oct-2017 04:05:43 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[09-Oct-2017 00:45:52 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[09-Oct-2017 23:54:26 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[10-Oct-2017 14:40:47 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[11-Oct-2017 23:43:31 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[12-Oct-2017 15:51:22 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[12-Oct-2017 15:51:22 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[13-Oct-2017 00:43:48 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[13-Oct-2017 04:06:31 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[13-Oct-2017 11:07:15 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[13-Oct-2017 12:20:16 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[15-Oct-2017 20:48:12 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[16-Oct-2017 09:37:22 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[17-Oct-2017 13:25:18 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[17-Oct-2017 15:27:54 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[19-Oct-2017 03:27:02 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[19-Oct-2017 07:54:23 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[20-Oct-2017 22:26:38 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
+[23-Oct-2017 19:10:06 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/index.php on line 15
+[23-Oct-2017 22:09:40 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/archive.php on line 15
+[24-Oct-2017 04:37:45 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/header.php on line 12
+[26-Oct-2017 14:33:25 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/acethehi/public_html/wp-content/themes/acethehimalaya/404.php on line 10
